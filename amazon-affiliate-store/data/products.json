@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "Modern Ultrasonic Humidifier",
+    "description": "A sleek and quiet ultrasonic humidifier that provides a comfortable and healthy living environment. Perfect for bedrooms, living rooms, and offices.",
+    "price": "49.99",
+    "image": "/images/109-1800x1800.png",
+    "url": "https://amzn.to/4lqWXxs"
+  },
+  {
+    "id": "2",
+    "name": "Professional Kitchen Knife Set",
+    "description": "A complete set of high-carbon stainless steel kitchen knives with a stylish wooden block. Sharp, durable, and perfect for any home chef.",
+    "price": "79.99",
+    "image": "/images/1-C07-DDC4-D5-E9-4-BA7-97-CC-AB31-C5-AE115-A-2048x.jpg",
+    "url": "https://amzn.to/4lqWXxs"
+  },
+  {
+    "id": "3",
+    "name": "Smart Fitness Tracker Watch",
+    "description": "Track your fitness goals with this stylish and feature-packed smartwatch. Monitors heart rate, steps, sleep, and more. Compatible with iOS and Android.",
+    "price": "39.99",
+    "image": "/images/514-N-ZNhoi-L-SX679.jpg",
+    "url": "https://amzn.to/4lqWXxs"
+  },
+  {
+    "id": "4",
+    "name": "High-Capacity Portable Charger",
+    "description": "Never run out of battery again with this high-capacity portable charger. Fast charging and compatible with all major devices.",
+    "price": "29.99",
+    "image": "/images/61fa-C6wk-Jn-L-UF1000-1000-QL80.jpg",
+    "url": "https://amzn.to/4lqWXxs"
+  },
+  {
+    "id": "5",
+    "name": "Immersive Gaming Headset",
+    "description": "Experience immersive audio with this comfortable gaming headset. Features noise-cancelling microphone and surround sound.",
+    "price": "59.99",
+    "image": "/images/7144h-TIkww-L-SL1500.jpg",
+    "url": "https://amzn.to/4lqWXxs"
+  },
+  {
+    "id": "6",
+    "name": "HD Camera Drone",
+    "description": "Capture stunning aerial photos and videos with this easy-to-fly HD camera drone. Perfect for beginners and hobbyists.",
+    "price": "99.99",
+    "image": "/images/download.jpg",
+    "url": "https://amzn.to/4lqWXxs"
+  }
+]
